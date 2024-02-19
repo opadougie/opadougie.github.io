@@ -7,18 +7,18 @@ title:  "看完三体，三体Ⅱ·黑暗森林，三体Ⅲ·死神永生全集�
 date:   2017-06-20
 category: 书籍
 tags:
-- 三体
-- 黑暗森林
-- 死神
-- 刘慈欣
-- 面壁者
-- 智子
+- 三体 three body
+- 黑暗森林 dark forest
+- 死神 grim Reaper
+- 刘慈欣 Liu Cixin
+- 面壁者 Wallfacer
+- 智子 Tomoko
 ---
  
   
-#### 三体看完了，有些意犹未尽 
+#### 三体看完了，有些意犹未尽 After watching The Three-Body Problem, I still have some unfinished thoughts.
  
-  特别是在这么一个雨夜，好像和小雨一样，思绪万千，缠缠绵绵。
+  特别是在这么一个雨夜，好像和小雨一样，思绪万千，缠缠绵绵。Especially on such a rainy night, it seems like Xiaoyu is full of thoughts and lingering thoughts.
 
 
 三体这部小说，宏观讲到整个宇宙，微观谈到质子夸克，中及人性。在宇宙的尺度上，人类的历史微不可查，人类文明的发展也微乎其微，人类何去何从？
