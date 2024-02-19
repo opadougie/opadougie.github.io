@@ -11,22 +11,22 @@ paginate: 15
 paginate_path: "liberxuepage:num"
 gems: [jekyll-paginate]
 links:
-  - name: 首页 home
+  - name: 首页
     url: /
     external: false
-  - name: 书籍 books
+  - name: 书籍
     url: /book
     external: false
-  - name: 旅游 road
+  - name: 旅游
     url: /road
     external: false
-  - name: 归档 archives
+  - name: 归档
     url: /archives
     external: false
-  - name: 标签 tags
+  - name: 标签
     url: /tags
     external: false
-  - name: 关于 about
+  - name: 关于
     url: /about
     external: false
 # ------------ CONFIGURABLE END ------------
